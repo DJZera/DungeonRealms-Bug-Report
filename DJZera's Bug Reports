@@ -1,0 +1,8 @@
+HP BUG: All fake player enteties have 7 hp, enteties out side safe zone can be hit forever but not killed.
+also not sure about this but i think players killed, there player stayes there with 0 hp http://prntscr.com/8fqttb
+
+HEALTH BAR BUG: health bar disapears some times and is extended 
+
+UNTREADABLE WEAPONS BUG: untradable weapons stay in inventory if in first slot when you die
+
+MOBS UNAGRO RANDOMLY: mobs will stop agroing and just not fight you.
